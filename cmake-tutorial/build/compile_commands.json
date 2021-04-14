@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/repos/fun-challenges/cmake-tutorial/build/hello_world",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/HelloWorld.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\HelloWorld.dir\\source\\main.cpp.obj -c C:\\repos\\fun-challenges\\cmake-tutorial\\hello_world\\source\\main.cpp",
+  "file": "C:/repos/fun-challenges/cmake-tutorial/hello_world/source/main.cpp"
+}
+]

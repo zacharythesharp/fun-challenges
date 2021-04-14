@@ -1,0 +1,7 @@
+C:/repos/fun-challenges/cmake-tutorial/build/CMakeFiles/edit_cache.dir
+C:/repos/fun-challenges/cmake-tutorial/build/CMakeFiles/rebuild_cache.dir
+C:/repos/fun-challenges/cmake-tutorial/build/hello_world/CMakeFiles/HelloWorld.dir
+C:/repos/fun-challenges/cmake-tutorial/build/hello_world/CMakeFiles/edit_cache.dir
+C:/repos/fun-challenges/cmake-tutorial/build/hello_world/CMakeFiles/rebuild_cache.dir
+C:/repos/fun-challenges/cmake-tutorial/build/hello_world/source/CMakeFiles/edit_cache.dir
+C:/repos/fun-challenges/cmake-tutorial/build/hello_world/source/CMakeFiles/rebuild_cache.dir
