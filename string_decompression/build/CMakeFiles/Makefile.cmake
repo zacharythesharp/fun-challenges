@@ -33,8 +33,8 @@ set(CMAKE_MAKEFILE_DEPENDS
   "CMakeFiles/3.20.1/CMakeCXXCompiler.cmake"
   "CMakeFiles/3.20.1/CMakeRCCompiler.cmake"
   "CMakeFiles/3.20.1/CMakeSystem.cmake"
-  "../hello_world/CMakeLists.txt"
-  "../hello_world/source/CMakeLists.txt"
+  "../project/CMakeLists.txt"
+  "../project/source/CMakeLists.txt"
   )
 
 # The corresponding makefile is:
@@ -46,11 +46,11 @@ set(CMAKE_MAKEFILE_OUTPUTS
 # Byproducts of CMake generate step:
 set(CMAKE_MAKEFILE_PRODUCTS
   "CMakeFiles/CMakeDirectoryInformation.cmake"
-  "hello_world/CMakeFiles/CMakeDirectoryInformation.cmake"
-  "hello_world/source/CMakeFiles/CMakeDirectoryInformation.cmake"
+  "project/CMakeFiles/CMakeDirectoryInformation.cmake"
+  "project/source/CMakeFiles/CMakeDirectoryInformation.cmake"
   )
 
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
-  "hello_world/CMakeFiles/HelloWorld.dir/DependInfo.cmake"
+  "project/CMakeFiles/StringDecompression.dir/DependInfo.cmake"
   )

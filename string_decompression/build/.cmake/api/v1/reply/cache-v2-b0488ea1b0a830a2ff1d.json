@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/repos/fun-challenges/cmake-tutorial/build"
+			"value" : "c:/repos/fun-challenges/string_decompression/build"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -155,10 +155,10 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "CXX compiler"
+					"value" : "No help, variable specified on the command line."
 				}
 			],
-			"type" : "STRING",
+			"type" : "FILEPATH",
 			"value" : "C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/g++.exe"
 		},
 		{
@@ -299,10 +299,10 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "C compiler"
+					"value" : "No help, variable specified on the command line."
 				}
 			],
-			"type" : "STRING",
+			"type" : "FILEPATH",
 			"value" : "C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/gcc.exe"
 		},
 		{
@@ -647,7 +647,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/repos/fun-challenges/cmake-tutorial"
+			"value" : "C:/repos/fun-challenges/string_decompression"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -879,7 +879,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "CMakeTutorial"
+			"value" : "StringDecompression"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1267,7 +1267,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/repos/fun-challenges/cmake-tutorial/build"
+			"value" : "C:/repos/fun-challenges/string_decompression/build"
 		},
 		{
 			"name" : "CMakeTutorial_SOURCE_DIR",
@@ -1279,7 +1279,31 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/repos/fun-challenges/cmake-tutorial"
+			"value" : "C:/repos/fun-challenges/string_decompression"
+		},
+		{
+			"name" : "StringDecompression_BINARY_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "C:/repos/fun-challenges/string_decompression/build"
+		},
+		{
+			"name" : "StringDecompression_SOURCE_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "C:/repos/fun-challenges/string_decompression"
 		}
 	],
 	"kind" : "cache",
