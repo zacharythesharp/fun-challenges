@@ -8,5 +8,4 @@ target_sources(
     StringDecompression
     PRIVATE
         main.cpp
-        Token.cpp
 )

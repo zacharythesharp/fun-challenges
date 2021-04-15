@@ -1,5 +1,6 @@
-hello_world/CMakeFiles/HelloWorld.dir/source/main.cpp.obj: \
- C:\repos\fun-challenges\string_decompression\hello_world\source\main.cpp \
+project/CMakeFiles/StringDecompression.dir/source/Token.cpp.obj: \
+ C:\repos\fun-challenges\string_decompression\project\source\Token.cpp \
+ C:\repos\fun-challenges\string_decompression\project\source\Token.h \
  C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/iostream \
  C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \
  C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32/bits/os_defines.h \
